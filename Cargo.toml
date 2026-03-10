@@ -1,3 +1,3 @@
 [workspace]
 resolver="3"
-members = ["borrowing","control-flujo","funciones","hello-world", "ownership", "tipos-primitivos", "variables", "variables-mutabilidad"]
+members = ["borrowing","control-flujo","funciones","hello-world", "ownership", "slices", "tipos-primitivos", "variables", "variables-mutabilidad"]
