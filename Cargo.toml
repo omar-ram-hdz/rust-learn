@@ -1,3 +1,3 @@
 [workspace]
 resolver="3"
-members = ["basic-patter-matching","borrowing","control-flujo","funciones","hello-world", "implementation-funciones-asociadas", "ownership", "slices", "structs", "text", "tipos-primitivos", "variables", "variables-mutabilidad", "vecs"]
+members = ["basic-patter-matching","borrowing","control-flujo","funciones", "hashmaps","hello-world", "implementation-funciones-asociadas", "ownership", "slices", "structs", "text", "tipos-primitivos", "variables", "variables-mutabilidad", "vecs"]
